@@ -2,7 +2,7 @@
 
 [Back to profile](../README.md)
 
-**Stack:** TypeScript, Next.js, React, Node.js, SQL Server, Server-Sent Events, Vitest, Cloudflare Access and Tunnel.
+**Focus:** LLM tool integration, ERP inventory data, SQL Server, source grounding, numeric verification and controlled read-only access.
 
 ## Problem
 

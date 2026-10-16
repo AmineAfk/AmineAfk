@@ -1,21 +1,25 @@
 # Amine Mahraoui
 
-Computer Science student at the University of Leeds, focused on software engineering and applied AI. I build web applications and data integrations with TypeScript, Python and SQL.
+Computer Science student specialising in Artificial Intelligence at the University of Leeds, interested in data analysis, visualisation and applied AI. My work uses Python and SQL across university projects, an analytics internship and AI/data integrations.
 
-My projects cover AI tool orchestration, database integration, workflow design and time-series visualisation. I care about clear interfaces, traceable answers and useful tests.
+## Relevant experience
+
+**Data Analytics / Machine Learning Intern — Trésorerie Générale du Royaume (TGR), Morocco · July–August 2026**
+
+Explored preparation, analysis and visualisation of public-finance datasets using Python, pandas, NumPy and Jupyter/Anaconda. Studied preprocessing, feature selection, model training and evaluation for potential public-finance applications.
 
 ## Selected work
 
 | Project | My contribution | Case study |
 | --- | --- | --- |
-| **Horizon** — AI operations platform | Streaming chat, bounded LLM tool execution, numeric grounding and read-only ERP integration | [Engineering and validation](case-studies/horizon.md) |
 | **COIL** — environmental monitoring dashboard | Dashboard data display and LTTB downsampling for dense time-series charts, within a university team project | [Visualisation and performance](case-studies/coil.md) |
+| **Horizon** — AI operations platform | Bounded LLM workflows, numeric grounding and read-only ERP data integration | [AI and data validation](case-studies/horizon.md) |
 | **Atrium** — clinic operations prototype | Receptionist inbox, message ingestion, contact deduplication, workflow states and audit logging | [Data and workflow design](case-studies/atrium.md) |
 
-**Tools used:** TypeScript, JavaScript, Python, SQL, React, Next.js, Node.js, Flask, NumPy, Matplotlib, PostgreSQL, Supabase, SQL Server, Git, Vitest and pytest.
+**Tools used:** Python, SQL, pandas, NumPy, Matplotlib, Jupyter, Flask, SQLAlchemy, PostgreSQL, SQL Server, Supabase, Git and automated testing.
 
 These case studies describe implemented work and my contribution. Source repositories remain private; the write-ups contain no business records or patient information.
 
-I'm interested in software engineering, data engineering and applied-AI internships and early-career opportunities.
+I'm interested in data analysis, applied AI and related internships and early-career opportunities.
 
 [LinkedIn](https://www.linkedin.com/in/amine-mahraoui-a7277b30a/)

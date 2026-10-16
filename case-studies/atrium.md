@@ -2,7 +2,7 @@
 
 [Back to profile](../README.md)
 
-**Stack:** TypeScript, Next.js, React, Tailwind CSS, Supabase, PostgreSQL and Vercel.
+**Focus:** Supabase/PostgreSQL, enquiry data, prioritisation, deduplication, audit logging and workflow metrics.
 
 ## Problem
 

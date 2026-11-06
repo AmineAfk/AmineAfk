@@ -1,8 +1,10 @@
-# COIL — environmental monitoring dashboard
+# Water Quality Monitoring — COIL
 
 [Back to profile](../README.md)
 
 **Context:** University of Leeds software engineering team project, with international Collaborative Online International Learning workshops involving South African students.
+
+**Focus:** Dashboard visualisation and time-series performance.
 
 **Project stack:** Python, Flask, SQLAlchemy, NumPy, pandas, Matplotlib, SVG and pytest.
 
